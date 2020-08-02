@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deployreactJiraApp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/deployreactJiraApp/static/js/main.37cc60bb.chunk.js",
+    "main.js.map": "/deployreactJiraApp/static/js/main.37cc60bb.chunk.js.map",
+    "runtime-main.js": "/deployreactJiraApp/static/js/runtime-main.87b2b594.js",
+    "runtime-main.js.map": "/deployreactJiraApp/static/js/runtime-main.87b2b594.js.map",
+    "static/css/2.daf4b330.chunk.css": "/deployreactJiraApp/static/css/2.daf4b330.chunk.css",
+    "static/js/2.b0ad6db9.chunk.js": "/deployreactJiraApp/static/js/2.b0ad6db9.chunk.js",
+    "static/js/2.b0ad6db9.chunk.js.map": "/deployreactJiraApp/static/js/2.b0ad6db9.chunk.js.map",
+    "index.html": "/deployreactJiraApp/index.html",
+    "precache-manifest.49730ca628847d6cdb3ff932d977289f.js": "/deployreactJiraApp/precache-manifest.49730ca628847d6cdb3ff932d977289f.js",
+    "service-worker.js": "/deployreactJiraApp/service-worker.js",
+    "static/css/2.daf4b330.chunk.css.map": "/deployreactJiraApp/static/css/2.daf4b330.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/deployreactJiraApp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b0ad6db9.chunk.js.LICENSE.txt": "/deployreactJiraApp/static/js/2.b0ad6db9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87b2b594.js",
+    "static/css/2.daf4b330.chunk.css",
+    "static/js/2.b0ad6db9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.37cc60bb.chunk.js"
+  ]
+}
